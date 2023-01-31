@@ -1,0 +1,14 @@
+{
+  "logger": {
+    "path": "./logs",
+    "name": "tgbot_%DATETIME%.log",
+    "name_date_format": "%Y-%m-%d_%H-%M-%S",
+    "level": 10,
+    "file": 10,
+    "console": 1,
+    "max_size": 100000000,
+    "backup_count": 20
+  },
+  "TOKEN2": "XXXXXXXXXX:YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "HOST2": "https://"
+}
